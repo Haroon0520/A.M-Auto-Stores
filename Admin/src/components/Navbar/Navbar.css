@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4px;
+}
+.navbar h1 span{
+    color: rgb(21, 154, 199);
+}
+.navbar .profile{
+    width: 40px;
+}
